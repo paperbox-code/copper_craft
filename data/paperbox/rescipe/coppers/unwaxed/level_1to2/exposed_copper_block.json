@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "minecraft:ice"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        },
+        {
+            "item": "minecraft:copper_block"
+        }
+    ],
+    "result": {
+        "id": "minecraft:exposed_copper",
+        "count": 8
+    }
+}

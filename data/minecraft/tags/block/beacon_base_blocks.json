@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-      "#paperbox:copper_blocks"
+        "#paperbox:coppers/all_copper_blocks"
     ]
-  }
+}

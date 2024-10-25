@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#paperbox:coppers/copper_blocks",
+    "#paperbox:coppers/exposed_copper_blocks",
+    "#paperbox:coppers/oxidized_copper_blocks",
+    "#paperbox:coppers/weathered_copper_blocks",
+    "#paperbox:coppers/waxed_copper_blocks",
+    "#paperbox:coppers/waxed_exposed_copper_blocks",
+    "#paperbox:coppers/waxed_oxidized_copper_blocks",
+    "#paperbox:coppers/waxed_weathered_copper_blocks"
+  ]
+}

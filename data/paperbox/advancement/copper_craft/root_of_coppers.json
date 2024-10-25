@@ -2,11 +2,11 @@
     "parent": "paperbox:root",
     "display": {
         "icon": {
-            "id": "minecraft:knowledge_book"
+            "id": "minecraft:copper_block"
         },
-        "title": "服务器新的配方",
+        "title": "铜工艺 v1.0",
         "description":{
-            "text":"这里面写着所有服务器新加的配方\n详细合成方式请看群相册或者合成书"
+            "text":"铜方块可以作为信标底座(除铜灯和不完整方块外)\n铜的快速氧化，用同氧化等级的8个相同铜方块+冰可以使氧化等级+1"
         },
         "frame": "task",
         "show_toast": true,
@@ -20,10 +20,8 @@
     }
     },
     "rewards": {
-        "experience": 200,
         "recipes": [
-            "paperbox:stonecutting/deepslate_to_cutting_cobbled_deepslate",
-            "paperbox:stonecutting/deepslate_to_cutting_polished_deepslate"
+
         ]
     }
 }

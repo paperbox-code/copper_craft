@@ -1,7 +1,7 @@
 {
 	"pack": {
 		"pack_format": 48,
-		"description": "减少合成步骤，不破坏原有合成配方",
+		"description": "让铜变得有点用",
 		"supported_formats": {
 			"min_inclusive": 41,
 			"max_inclusive": 48
