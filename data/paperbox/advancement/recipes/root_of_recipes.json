@@ -1,0 +1,29 @@
+{
+    "parent": "paperbox:root",
+    "display": {
+        "icon": {
+            "id": "minecraft:knowledge_book"
+        },
+        "title": "服务器新的配方",
+        "description":{
+            "text":"这里面写着所有服务器新加的配方\n详细合成方式请看群相册或者合成书"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat" : true,
+        "hidden": false
+    },
+    "criteria": {
+        "get_player":{
+            "trigger": "minecraft:inventory_changed",
+            "conditions": { }
+    }
+    },
+    "rewards": {
+        "experience": 200,
+        "recipes": [
+            "paperbox:stonecutting/deepslate_to_cutting_cobbled_deepslate",
+            "paperbox:stonecutting/deepslate_to_cutting_polished_deepslate"
+        ]
+    }
+}

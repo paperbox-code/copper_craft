@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:elytra"
+        },
+        "title": "欢迎来带飞机服！！",
+        "description": "这个成就页面是简单介绍本服的特色，有任何疑问可以at群管家",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat" : true,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+        "hidden": false
+    },
+    "criteria": {
+        "get_player":{
+            "trigger": "minecraft:inventory_changed",
+            "conditions": { }
+    }
+    },
+    "rewards": {
+        "experience": 200
+    }
+}

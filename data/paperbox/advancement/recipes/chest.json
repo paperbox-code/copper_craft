@@ -1,0 +1,35 @@
+{
+    "parent": "paperbox:recipes/root_of_recipes",
+    "display": {
+        "icon": {
+            "id": "minecraft:chest"
+        },
+        "title": "木头直接合成箱子",
+        "description":{
+            "text":"任意木头在工作台摆一圈即可一次合成4个箱子\n方便红石玩家大量合成箱子的需求"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat" : true,
+        "hidden": false
+    },
+    "criteria": {
+        "get_woods":{
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "#minecraft:logs"
+                    }
+                ]
+            }
+        }
+    },
+
+    "rewards": {
+        "experience": 200,
+        "recipes": [
+            "paperbox:crafting_shaped/chest"
+        ]
+    }
+}
