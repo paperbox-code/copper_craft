@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        [
+            {
+                "item": "minecraft:water_bucket"
+            },
+            {
+                "item": "minecraft:ice"
+            }
+        ],
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_slab"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_slab"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_slab"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_slab"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_slab"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_slab"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_slab"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_slab"
+        }
+    ],
+    "result": {
+        "id": "minecraft:waxed_weathered_cut_copper_slab",
+        "count": 8
+    }
+}

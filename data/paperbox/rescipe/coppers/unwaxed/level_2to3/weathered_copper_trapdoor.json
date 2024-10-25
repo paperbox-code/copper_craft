@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        [
+            {
+                "item": "minecraft:water_bucket"
+            },
+            {
+                "item": "minecraft:ice"
+            }
+        ],
+        {
+            "item": "minecraft:exposed_copper_trapdoor"
+        },
+        {
+            "item": "minecraft:exposed_copper_trapdoor"
+        },
+        {
+            "item": "minecraft:exposed_copper_trapdoor"
+        },
+        {
+            "item": "minecraft:exposed_copper_trapdoor"
+        },
+        {
+            "item": "minecraft:exposed_copper_trapdoor"
+        },
+        {
+            "item": "minecraft:exposed_copper_trapdoor"
+        },
+        {
+            "item": "minecraft:exposed_copper_trapdoor"
+        },
+        {
+            "item": "minecraft:exposed_copper_trapdoor"
+        }
+    ],
+    "result": {
+        "id": "minecraft:weathered_copper_trapdoor",
+        "count": 8
+    }
+}

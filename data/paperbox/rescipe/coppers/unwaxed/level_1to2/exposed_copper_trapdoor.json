@@ -11,32 +11,32 @@
             }
         ],
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_trapdoor"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_trapdoor"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_trapdoor"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_trapdoor"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_trapdoor"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_trapdoor"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_trapdoor"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_trapdoor"
         }
     ],
     "result": {
-        "id": "minecraft:exposed_copper",
+        "id": "minecraft:exposed_copper_trapdoor",
         "count": 8
     }
 }

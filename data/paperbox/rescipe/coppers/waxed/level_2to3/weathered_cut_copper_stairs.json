@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        [
+            {
+                "item": "minecraft:water_bucket"
+            },
+            {
+                "item": "minecraft:ice"
+            }
+        ],
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_stairs"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_stairs"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_stairs"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_stairs"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_stairs"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_stairs"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_stairs"
+        },
+        {
+            "item": "minecraft:waxed_exposed_cut_copper_stairs"
+        }
+    ],
+    "result": {
+        "id": "minecraft:waxed_weathered_cut_copper_stairs",
+        "count": 8
+    }
+}

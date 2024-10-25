@@ -11,32 +11,32 @@
             }
         ],
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:waxed_copper_block"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:waxed_copper_block"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:waxed_copper_block"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:waxed_copper_block"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:waxed_copper_block"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:waxed_copper_block"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:waxed_copper_block"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:waxed_copper_block"
         }
     ],
     "result": {
-        "id": "minecraft:exposed_copper",
+        "id": "minecraft:waxed_exposed_copper",
         "count": 8
     }
 }

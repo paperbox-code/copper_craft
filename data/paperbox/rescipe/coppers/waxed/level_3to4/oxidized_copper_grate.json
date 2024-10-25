@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        [
+            {
+                "item": "minecraft:water_bucket"
+            },
+            {
+                "item": "minecraft:ice"
+            }
+        ],
+        {
+            "item": "minecraft:waxed_weathered_copper_grate"
+        },
+        {
+            "item": "minecraft:waxed_weathered_copper_grate"
+        },
+        {
+            "item": "minecraft:waxed_weathered_copper_grate"
+        },
+        {
+            "item": "minecraft:waxed_weathered_copper_grate"
+        },
+        {
+            "item": "minecraft:waxed_weathered_copper_grate"
+        },
+        {
+            "item": "minecraft:waxed_weathered_copper_grate"
+        },
+        {
+            "item": "minecraft:waxed_weathered_copper_grate"
+        },
+        {
+            "item": "minecraft:waxed_weathered_copper_grate"
+        }
+    ],
+    "result": {
+        "id": "minecraft:waxed_oxidized_copper_grate",
+        "count": 8
+    }
+}

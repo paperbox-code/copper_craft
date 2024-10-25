@@ -11,32 +11,32 @@
             }
         ],
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_bulb"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_bulb"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_bulb"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_bulb"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_bulb"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_bulb"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_bulb"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:copper_bulb"
         }
     ],
     "result": {
-        "id": "minecraft:exposed_copper",
+        "id": "minecraft:exposed_copper_bulb",
         "count": 8
     }
 }

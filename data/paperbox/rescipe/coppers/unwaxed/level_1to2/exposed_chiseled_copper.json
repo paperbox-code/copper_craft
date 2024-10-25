@@ -11,32 +11,32 @@
             }
         ],
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:chiseled_copper"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:chiseled_copper"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:chiseled_copper"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:chiseled_copper"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:chiseled_copper"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:chiseled_copper"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:chiseled_copper"
         },
         {
-            "item": "minecraft:copper_block"
+            "item": "minecraft:chiseled_copper"
         }
     ],
     "result": {
-        "id": "minecraft:exposed_copper",
+        "id": "minecraft:exposed_chiseled_copper",
         "count": 8
     }
 }
